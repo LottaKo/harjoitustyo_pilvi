@@ -1,0 +1,17 @@
+/* Login.css */
+.container {
+    margin: auto;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 100vh; /* 100% näytön korkeudesta */
+  }
+  
+  .form {
+    width: 300px; /* Valitse sopiva leveys lomakkeelle */
+    padding: 20px;
+    border: 1px solid #ccc;
+    border-radius: 8px;
+    text-align: center; /* Keskitä tekstit lomakkeessa */
+  }
+  
